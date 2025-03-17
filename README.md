@@ -1,8 +1,8 @@
 # Gradio Assistant 🚀
+![image](https://github.com/user-attachments/assets/4224907f-0223-4845-88f9-f62c020ee7f6)
 
-![Gradio Logo](https://gradio.app/assets/logo.svg)
 
-A **Gradio-based Assistant** to create interactive and customizable web interfaces for machine learning models, data science workflows, or any Python backend logic. Built with simplicity and speed in mind, this project is perfect for fast prototyping and deployment.
+A **SGABS** to create interactive and customizable web interfaces for machine learning models, data science workflows, or any Python backend logic. Built with simplicity and speed in mind, this project is perfect for fast prototyping and deployment.
 
 ---
 
@@ -23,7 +23,7 @@ A **Gradio-based Assistant** to create interactive and customizable web interfac
 
 ## About the Project 💡
 
-This repository provides a **Gradio-based Assistant** that allows you to build and deploy interactive web interfaces for your Python applications. Whether you're working on machine learning models, data analysis, or any other backend logic, Gradio makes it easy to create user-friendly interfaces with minimal code.
+This repository provides a **SGABS** that allows you to build and deploy interactive web interfaces for your Python applications. Whether you're working on machine learning models, data analysis, or any other backend logic, Gradio makes it easy to create user-friendly interfaces with minimal code.
 
 Gradio is an open-source Python library that simplifies the process of creating customizable UI components. With just a few lines of code, you can create interfaces for your models and share them with others.
 
